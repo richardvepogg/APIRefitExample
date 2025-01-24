@@ -1,0 +1,30 @@
+version: '3.4'
+
+networks:
+  rederefit:
+      driver: bridge
+      ipam:
+          driver: default
+          config:
+              - subnet: "172.18.0.0/16"
+
+
+services:
+
+      apirefit:
+            image: api-refit
+            container_name: apiRefit
+            build:
+              context: .
+              dockerfile: ProductRefitService\ProductRefitService.WebApi\Dockerfile
+            ports:
+            - "5000:5000"
+            depends_on:
+            - cadastroproduto
+            networks:
+              rederefit:
+               ipv4_address: 172.18.0.4
+
+
+
+    
