@@ -1,0 +1,13 @@
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\bin\Debug\net8.0\ProductRefitService.Infra.deps.json
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\bin\Debug\net8.0\ProductRefitService.Infra.dll
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\bin\Debug\net8.0\ProductRefitService.Infra.pdb
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ProductRefitService.Infra.csproj.AssemblyReference.cache
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ProductRefitService.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ProductRefitService.Infra.AssemblyInfoInputs.cache
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ProductRefitService.Infra.AssemblyInfo.cs
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ProductRefitService.Infra.csproj.CoreCompileInputs.cache
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ProductRefitService.Infra.sourcelink.json
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ProductRefitService.Infra.dll
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\refint\ProductRefitService.Infra.dll
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ProductRefitService.Infra.pdb
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.Infra\obj\Debug\net8.0\ref\ProductRefitService.Infra.dll

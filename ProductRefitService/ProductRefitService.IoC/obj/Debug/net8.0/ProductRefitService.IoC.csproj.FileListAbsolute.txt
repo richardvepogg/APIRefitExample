@@ -1,0 +1,16 @@
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\bin\Debug\net8.0\ProductRefitService.IoC.deps.json
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\bin\Debug\net8.0\ProductRefitService.IoC.dll
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\bin\Debug\net8.0\ProductRefitService.IoC.pdb
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductRefitService.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductRefitService.IoC.AssemblyInfoInputs.cache
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductRefitService.IoC.AssemblyInfo.cs
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductRefitService.IoC.csproj.CoreCompileInputs.cache
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductRefitService.IoC.sourcelink.json
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductRefitService.IoC.dll
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\refint\ProductRefitService.IoC.dll
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductRefitService.IoC.pdb
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ref\ProductRefitService.IoC.dll
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\bin\Debug\net8.0\ProductRefitService.Infra.dll
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\bin\Debug\net8.0\ProductRefitService.Infra.pdb
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductRefitService.IoC.csproj.AssemblyReference.cache
+D:\MeusProjetos\DockerMicroservices\ProductRefitService\ProductRefitService.IoC\obj\Debug\net8.0\ProductR.EAEFB8E4.Up2Date
